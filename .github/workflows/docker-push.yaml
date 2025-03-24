@@ -7,7 +7,7 @@ on:
 jobs:
   build-and-push:
     runs-on: ubuntu-latest
-    # environment: Prod - EPE
+    environment: Prod - Portfolio
     
     steps:
     - uses: actions/checkout@v2
