@@ -21,7 +21,7 @@ export default function Home() {
           <div className="about-container">
             <img
               src="/gabriela-fernandez.jpg"
-              alt="Dr. Gabriela Fernandez"
+              alt="Prof. Gabriela Fernandez"
               className="profile-image"
             />
             <div className="about-content">
