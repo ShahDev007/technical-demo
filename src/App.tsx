@@ -25,7 +25,7 @@ export default function Home() {
               className="profile-image"
             />
             <div className="about-content">
-              <h2 className="section-title">About Dr. Gabriela Fernandez</h2>
+              <h2 className="section-title">About Prof. Gabriela Fernandez</h2>
               <p className="about-text">
                 Dr. Gabriela Fernandez is the Director of the Metabolism of
                 Cities Living Lab and Adjunct Faculty for the Master of Science
